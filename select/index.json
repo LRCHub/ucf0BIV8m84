@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "猿の学生",
+  "base_artist": "ハヌマーン",
+  "createdAt": "2025-12-12T11:46:17.441968Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "猿の学生",
+      "artist": "ハヌマーン",
+      "has_synced": false,
+      "path": "select/pl_01_猿の学生_ハヌマーン.txt"
+    }
+  ]
+}
